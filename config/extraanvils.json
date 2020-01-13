@@ -1,0 +1,29 @@
+[
+  {
+    "color": "#00FFFF",
+    "cap": 32767,
+    "weight": 1.0,
+    "durability": 32.0,
+    "enchantability": 1.1,
+    "playerDamage": false,
+    "name": "diamond"
+  },
+  {
+    "color": "#FEE048",
+    "cap": 160,
+    "weight": 2.5,
+    "durability": 4.0,
+    "enchantability": 2.8,
+    "playerDamage": false,
+    "name": "gold"
+  },
+  {
+    "color": "#808080",
+    "cap": 20,
+    "weight": 0.7,
+    "durability": 0.0,
+    "enchantability": 0.5,
+    "playerDamage": false,
+    "name": "stone"
+  }
+]

@@ -1,0 +1,10 @@
+
+#General settings for the mod.
+[general]
+	#Should the names of mods be added to the pool of splashes?
+	includeModNames = true
+	#Should vanilla splash texts still be in the splash pool?
+	includeVanillaSplashes = true
+	#A list of additional splash texts that can be displayed.
+	customSplashes = ["Powered by Squirrels", "Take it Easy!", "scala.actors.threadpool.Arrays", "Potato Knishes", "Not Backported to 1.7.10", "Runs On Clay", "It's Balanced Because it Takes Effort!", "72 Facts About Snails"]
+
