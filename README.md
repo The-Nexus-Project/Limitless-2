@@ -3,4 +3,4 @@ Limitless 2 modpack maintained and developed by Gbergz - *Operating on Minecraft
 
 **CurseForge Page:** https://www.curseforge.com/minecraft/modpacks/tnp-limitless-2
 
-**Latest Changelog:** *https://github.com/The-Nexus-Project/Limitless-2/blob/master/changelog.md
+**Latest Changelog:** https://github.com/The-Nexus-Project/Limitless-2/blob/master/changelog.md
