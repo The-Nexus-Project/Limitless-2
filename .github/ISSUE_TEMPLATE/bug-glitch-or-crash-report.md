@@ -9,6 +9,7 @@ assignees: ''
 
 **Describe what happened:**
 A clear and concise description of what happened.
+(Remove this text & the text above^ and only provide the correct info.)
 
 **To Reproduce**
 Steps to reproduce (double check if you can do it yourself):
@@ -19,20 +20,24 @@ Steps to reproduce (double check if you can do it yourself):
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+(Remove this text & the text above^ and only provide the correct info.)
 
 **Crash-reports**
 If applicable, upload your Crash-reports help explain your problem.
 DON'T PASTE THE ENTIRE CRASH REPORT HERE!
 USE PASTE SITES LIKE: Paste.ee, Gist Github, Pastebin & Hastebin.
+(Remove this text & the text above^ and only provide the link.)
 
 **Logs / Debuglogs**
 If applicable, upload your Logs to help explain your problem.
 DON'T PASTE THE ENTIRE CRASH REPORT HERE!
-USE PASTE SITES LIKE:* Paste.ee, Gist Github, Pastebin & Hastebin.
+USE PASTE SITES LIKE: Paste.ee, Gist Github, Pastebin & Hastebin.
+(Remove this text & the text above and only provide the link.)
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 Use upload site like Imgur.
+(Remove this text & the text above^ and only provide the link.)
 
 **Java Info:**
  - Java Version: 
@@ -43,3 +48,4 @@ Use upload site like Imgur.
 
 **Additional context**
 Add any other context about the problem here.
+(Remove this text & the text above^ and only provide the correct info.)
