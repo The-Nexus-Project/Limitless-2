@@ -2,17 +2,17 @@
 [general]
 	#How much XP is dropped when the Experience Ore is broken
 	#Range: 1 ~ 100
-	oreXpDrop = 15
+	oreXpDrop = 18
 	#The maximum number of ores per vein. Please note, the average ore vein will be about half of this. EX: Vanilla Coal is 17.
 	#Range: 1 ~ 100
-	veinSize = 10
+	veinSize = 5
 	#The maximum height to spawn Experience Ore at.
 	#Range: 0 ~ 256
-	maxSpawnHeight = 72
+	maxSpawnHeight = 48
 	#Controls the chance to spawn Experience Ore in world generation.
 	#Range: 1 ~ 100
-	chanceToSpawn = 12
+	chanceToSpawn = 6
 	#The minimum height to spawn Experience Ore at.
 	#Range: 0 ~ 256
-	minSpawnHeight = 0
+	minSpawnHeight = 6
 

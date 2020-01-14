@@ -13,6 +13,18 @@
       ]
     },
     {
+      "name": "3x3",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
+      ]
+    },
+    {
       "name": "1x2",
       "depth": -1,
       "reticle": 12,
@@ -21,30 +33,6 @@
         "OOOOO",
         "OOXOO",
         "OOXOO",
-        "OOOOO"
-      ]
-    },
-    {
-      "name": "3x3",
-      "depth": -1,
-      "reticle": 12,
-      "mask": [
-        "OOOOO",
-        "OXXXO",
-        "OXXXO",
-        "OXXXO",
-        "OOOOO"
-      ]
-    },
-    {
-      "name": "3x3",
-      "depth": -1,
-      "reticle": 12,
-      "mask": [
-        "OOOOO",
-        "OXXXO",
-        "OXXXO",
-        "OXXXO",
         "OOOOO"
       ]
     },
@@ -58,6 +46,18 @@
         "XXXXX",
         "XXXXX",
         "XXXXX"
+      ]
+    },
+    {
+      "name": "3x3",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
       ]
     },
     {

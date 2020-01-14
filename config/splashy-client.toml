@@ -4,7 +4,7 @@
 	#A list of additional splash texts that can be displayed.
 	customSplashes = ["Limitless now on 1.15!"]
 	#Should the names of mods be added to the pool of splashes?
-	includeModNames = true
+	includeModNames = false
 	#Should vanilla splash texts still be in the splash pool?
 	includeVanillaSplashes = false
 
