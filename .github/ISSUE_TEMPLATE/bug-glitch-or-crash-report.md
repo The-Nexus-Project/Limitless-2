@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Remember! 
+If you can identify which mod is crashing, please report it on their Issue Tracker instead of this one!**
+
 **Describe what happened:**
 A clear and concise description of what happened.
 (Remove this text & the text above^ and only provide the correct info.)
