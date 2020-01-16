@@ -1,0 +1,17 @@
+
+#General Settings
+[GENERAL]
+	#Enable / Disable Magic Mirror Ingredients
+	ingredientsEnabled = false
+	#Enable / Disable Dimensional Mirrors
+	dimensionalMirrorsEnabled = true
+	#Enable / Disable Dimension Crystal (Disabling this means disabling upgrades to dimensionals!!!)
+	dimensionCrystalEnabled = true
+	#Enable / Disable Magic Mirrors
+	magicmirrors = true
+
+#Developer Settings
+[DEVELOPER]
+	#Enable / Disable LogManager logging (DEV)
+	logger = false
+

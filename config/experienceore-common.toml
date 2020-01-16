@@ -8,7 +8,7 @@
 	veinSize = 5
 	#The maximum height to spawn Experience Ore at.
 	#Range: 0 ~ 256
-	maxSpawnHeight = 48
+	maxSpawnHeight = 45
 	#Controls the chance to spawn Experience Ore in world generation.
 	#Range: 1 ~ 100
 	chanceToSpawn = 6
