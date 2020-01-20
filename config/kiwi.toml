@@ -1,10 +1,4 @@
 
-[modules]
-
-	[modules.fruittrees]
-		test = false
-		hybridization = true
-
 [client]
 	#Show item tags and nbt in advanced tooltips
 	debugTooltip = true
@@ -16,4 +10,10 @@
 	contributorEffect = ""
 	#Tooltips require pressing shift to be shown
 	tooltipRequiresShift = false
+
+[modules]
+
+	[modules.fruittrees]
+		test = false
+		hybridization = true
 

@@ -11,7 +11,7 @@
 	maxSpawnHeight = 45
 	#Controls the chance to spawn Experience Ore in world generation.
 	#Range: 1 ~ 100
-	chanceToSpawn = 4
+	chanceToSpawn = 3
 	#The minimum height to spawn Experience Ore at.
 	#Range: 0 ~ 256
 	minSpawnHeight = 8
