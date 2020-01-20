@@ -1,3 +1,52 @@
+<h1>v0.03</h1>
+
+**Known Issue(s)**
+- BetterTitleScreen warning when game is done loading, nothing to worry about just click "Continue to main menu"! (**To be fixed soon-ish!**) - (**If not then the mod wasn't updated.**)
+
+- Some transparent blocks appear non-transparent. Like spawners, sugarcane. (**FORGE ISSUE, to be fixed.**) (**Probably in a hotfix**)
+
+
+**Added**
+- [Ender Magnet](https://www.curseforge.com/minecraft/mc-mods/ender-magnet)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+- [CraftingTweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
+- [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
+- [CraftingCraft](https://www.curseforge.com/minecraft/mc-mods/craftingcraft)
+- [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
+- [Parachute Mod](https://www.curseforge.com/minecraft/mc-mods/parachutemod)
+- [AnimalNet](https://www.curseforge.com/minecraft/mc-mods/animalnet)
+- [Spike Traps](https://www.curseforge.com/minecraft/mc-mods/spike-traps)
+- [Extra Bows](https://www.curseforge.com/minecraft/mc-mods/extra-bows)
+- [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
+- [Water Strainer](https://www.curseforge.com/minecraft/mc-mods/water-strainer)
+- [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked) (**+ required API.**)
+- [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage)
+- [GravelMiner](https://www.curseforge.com/minecraft/mc-mods/gravelminer)
+
+
+**Removed**
+- No mods.
+
+
+**Changes**
+- Toned down the EXP Ore Spawn-% a little bit, 6 -> 3.
+- Changed 'Backpacked' inventory rows from 1 -> 3. (**total of 27 slots.**)
+- Changed Light-level overlay reach, 6 b -> 15 b.
+- Disabled Ender Magnet particles.
+- Added som CF Scripts to prevent Recipe Conflicts between newly added mods.
+- Changed '/rndtp' maximum TP distance, 5000 -> 17500.
+- Minor changes. 
+
+
+**Fixes**
+- Fixed CraftPresence status images.
+- Minor fixes.
+
+
+**Updated**
+- Any mod that had an update available.
+
+
 <h1>v0.02</h1>
 
 **Known Issue(s)**
