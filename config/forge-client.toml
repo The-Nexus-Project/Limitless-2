@@ -3,8 +3,6 @@
 [client]
 	#Disable culling of hidden faces next to stairs and slabs. Causes extra rendering, but may fix some resource packs that exploit this vanilla mechanic.
 	disableStairSlabCulling = false
-	#Allow item rendering to detect emissive quads and draw them properly. This allows glowing blocks to look the same in item form, but incurs a very slight performance hit.
-	allowEmissiveItems = true
 	#Toggle off to make missing model text in the gui fit inside the slot.
 	zoomInMissingModelTextInGui = false
 	#Enable forge to queue all chunk updates to the Chunk Update thread.
