@@ -1,3 +1,43 @@
+<h1>v0.04</h1>
+
+**Refined Storage Update!**
+
+**Known Issue(s)**
+- BetterTitleScreen warning when game is done loading, nothing to worry about just click "Continue to main menu"! (**To be fixed soon-ish!**) - (**If not then the mod wasn't updated.**)
+
+- Some transparent blocks appear non-transparent. Like spawners, sugarcane. (**FORGE ISSUE, to be fixed.**)
+
+
+**Added**
+- [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+- [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
+- [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
+- [Clean View](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+
+
+**Removed**
+- No mods.
+
+
+**World Gen Changes**
+- Removed 'Witherworshipers' structure. (**Ruins.**)
+
+
+**Changes**
+- Added 'PAUSE' variable to the Batch Startup file. (**Server Files.**)
+- Changed the Arrow Scale-size, 1.5 -> 1.2! (**Xaero's Minimap.**)
+- Enabled Playerheads & Playernames to be shown on the Minimap. (**Xaero's Minimap.**)
+
+
+**Fixes**
+- Minor fixes.
+
+
+**Updated**
+- Updated Forge to version 30.0.42!
+- Any mod that had an update available.
+
+
 <h1>v0.03</h1>
 
 **Known Issue(s)**
