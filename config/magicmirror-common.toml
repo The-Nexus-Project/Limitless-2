@@ -1,14 +1,10 @@
 
-#General Settings
+#General Settings (COMMON)
 [GENERAL]
-	#Enable / Disable Magic Mirror Ingredients
+	#Enable magic mirror recipe
 	ingredientsEnabled = false
-	#Enable / Disable Dimensional Mirrors
+	#Enable recipes for dimensional mirrors
 	dimensionalMirrorsEnabled = true
-	#Enable / Disable Dimension Crystal (Disabling this means disabling upgrades to dimensionals!!!)
-	dimensionCrystalEnabled = true
-	#Enable / Disable Magic Mirrors
-	magicmirrors = true
 
 #Developer Settings
 [DEVELOPER]

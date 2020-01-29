@@ -12,7 +12,7 @@
     "displayFluids": false
   },
   "overlay": {
-    "overlayPosX": 0.12,
+    "overlayPosX": 0.20,
     "overlayPosY": 0.99,
     "overlayScale": 1.0,
     "color": {
