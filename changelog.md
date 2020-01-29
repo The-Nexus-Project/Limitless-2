@@ -1,3 +1,52 @@
+<h1>v0.05</h1>
+
+**Note!**
+An update to 1.15.2 will come eventually.
+
+**Known Issue(s)**
+- BetterTitleScreen warning when game is done loading, nothing to worry about just click "Continue to main menu"! (**To be fixed soon-ish!**)
+
+
+**Added**
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+- [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+- [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
+- [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers-forge)
+- [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
+- [Magic Feather](https://www.curseforge.com/minecraft/mc-mods/magic-feather)
+- [Pretty Beaches](https://www.curseforge.com/minecraft/mc-mods/pretty-beaches)
+- [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+- [Auto Dropper](https://www.curseforge.com/minecraft/mc-mods/auto-dropper)
+- [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
+- [Ring of Growth](https://www.curseforge.com/minecraft/mc-mods/ring-of-growth-forge)
+- [Ring of Attraction](https://www.curseforge.com/minecraft/mc-mods/ring-of-attraction-forge)
+- [Ring of Enderchest](https://www.curseforge.com/minecraft/mc-mods/ring-of-the-enderchest-forge)
+- [Random Patches](https://www.curseforge.com/minecraft/mc-mods/randompatches)
+
+
+**Removed**
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) (**To be re-added!**)
+- [Gobber2](https://www.curseforge.com/minecraft/mc-mods/gobber)
+- [Parachute Mod](https://www.curseforge.com/minecraft/mc-mods/parachutemod)
+
+
+**World Gen Changes**
+- Removed 'Mininghut' structure. (**Ruins.**)
+
+
+**Changes**
+- Changed % of players required to trigger a successful sleep, 50 -> 25. (**Morpheus.**)
+- Adjusted the HWYLA Overlay location. (**To prevent overlaying the Infernal Health bar & going off screen.**) (**Hwyla.**)
+
+
+**Fixes**
+- Fixed some blocks appearing non-transparant (Black/white textures.) (**Removed Apotheosis for now.**)
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+
 <h1>v0.04</h1>
 
 **Refined Storage Update!**
