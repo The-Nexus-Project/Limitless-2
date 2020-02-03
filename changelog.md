@@ -1,3 +1,20 @@
+<h1>v1.00</h1>
+
+**Note!**
+This update is a version bump to release 1.00, and it's pretty much the same as 0.05!
+This is also the first 'R' Release & the last release for 1.15.1!
+An update to 1.15.2 will be out soon as a 'Beta', stay tuned.
+This update can be considered as an Optional Update.
+
+
+**Known Issue(s)**
+- BetterTitleScreen warning when game is done loading, nothing to worry about just click "Continue to main menu"! (**Fixed in the 1.15.2 update!**)
+
+
+**Changes**
+- Version bump to 1.00!
+
+
 <h1>v0.05</h1>
 
 **Note!**
