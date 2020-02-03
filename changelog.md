@@ -2,8 +2,11 @@
 
 **Note!**
 This update is a version bump to release 1.00, and it's pretty much the same as 0.05!
+
 This is also the first 'R' Release & the last release for 1.15.1!
+
 An update to 1.15.2 will be out soon as a 'Beta', stay tuned.
+
 This update can be considered as an Optional Update.
 
 
