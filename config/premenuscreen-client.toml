@@ -1,0 +1,13 @@
+#Should the screen appear on the next Start?
+shouldappear = false
+#The Header of the Message
+header = "Put the Header here"
+#The Body of the Message
+body = "Put the Body of the Message here. Use \n for newline"
+#The Text on the Button
+button = "Button Text here"
+#Optional: Adds a second button with a link that can be opened. Leave blank to disable the button
+link = "https://www.curseforge.com/minecraft/mc-mods/pre-menu-screen"
+#Text on the Link Button
+linkButtonText = "CurseForge Page"
+
