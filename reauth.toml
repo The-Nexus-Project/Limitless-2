@@ -10,7 +10,7 @@ version = 2
 	password = ""
 	#One of the values required to decrypt the credentials
 	#See https://en.wikipedia.org/wiki/Salt_(cryptography) for details
-	salt = "7kQyKvZntrEqYi7/f26dgw=="
+	salt = "TffCTwGHe/CRj4F6krR+Lw=="
 	#The Name of the last used Profile
 	profile = ""
 	#Your Username (encrypted)
