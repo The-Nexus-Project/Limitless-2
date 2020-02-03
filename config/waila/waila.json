@@ -1,6 +1,6 @@
 {
   "general": {
-    "displayTooltip": true,
+    "displayTooltip": false,
     "shiftForDetails": false,
     "displayMode": "TOGGLE",
     "hideFromPlayerList": true,
@@ -12,8 +12,8 @@
     "displayFluids": false
   },
   "overlay": {
-    "overlayPosX": 0.20,
-    "overlayPosY": 0.99,
+    "overlayPosX": 25.0,
+    "overlayPosY": 15.0,
     "overlayScale": 1.0,
     "color": {
       "alpha": 80,

@@ -71,8 +71,14 @@
 		# Default: 
 		icon32 = ""
 		# The Minecraft window title.
-		# Default: Minecraft 1.15.1
+		# The Minecraft version is provided as an argument.
+		# Default: Minecraft* %s
 		title = "Minecraft 1.15.1"
+		# The Minecraft window title.
+		# The Minecraft version and current activity are provided as arguments.
+		# For example: "RandomPatches - %2$s"
+		# Default: Minecraft* %s - %s
+		titleWithActivity = "Minecraft* %s - %s"
 
 # Options related to boats.
 [boats]

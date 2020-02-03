@@ -25,8 +25,6 @@
 	#Displayed temperature unit in Mekanism GUIs.
 	#Allowed Values: K, C, R, F, STP
 	temperatureUnit = "K"
-	#Allows vanilla spawners to be moved with a Cardboard Box.
-	cardboardSpawners = true
 	#Log Mekanism packet names. Debug setting.
 	logPackets = false
 	#Add filled creative gas tanks to creative/JEI.
@@ -53,6 +51,8 @@
 	maxPumpRange = 80
 	#How many ticks must pass until a block's active state can sync with the client.
 	UPDATE_DELAY = 10
+	#Any mod ids added to this list will not be able to have any of their blocks, picked up by the cardboard box.
+	cardboardModBlacklist = []
 	#If enabled, lasers can break blocks and the flamethrower starts fires.
 	aestheticWorldDamage = true
 	#Amount of heat each Boiler heating element produces.

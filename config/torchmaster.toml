@@ -18,8 +18,9 @@
 	#You can use this to block more entities or even allow certain entities to still spawn
 	#The + prefix will add the entity to the list, effectivly denying its spawns
 	#The - prefix will remove the entity from the list (if necessary), effectivly allowing its spawns
-	#Block zombies: +minecraft:zombie
-	#Allow creepers: -minecraft:creeper
+	#Note: Each entry needs to be put in quotes! Multiple Entries should be separated by comma.
+	#Block zombies: "+minecraft:zombie"
+	#Allow creepers: "-minecraft:creeper"
 	megaTorchEntityBlockListOverrides = []
 	#Durability of the frozen pearl. Each removed light will remove one charge from the pearl. Set to 0 to disable durability
 	#Range: 0 ~ 32767

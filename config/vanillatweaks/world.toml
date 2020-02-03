@@ -1,0 +1,8 @@
+
+#Dynamic changes in the world
+[world]
+	#Is realistic predator/prey relationships activated?
+	realisticRelationship = true
+	#Want seeds to auto-plant themselves when broken?
+	selfPlanting = true
+
