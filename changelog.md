@@ -1,3 +1,85 @@
+<h1>v1.01</h1>
+
+**The 1.15.2 Update!**
+
+
+**Added**
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
+- [Vanilla Tweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks)
+- [Lightest Lamps](https://www.curseforge.com/minecraft/mc-mods/lightest-lamps)
+- [Quartz Chests](https://www.curseforge.com/minecraft/mc-mods/quartz-chests)
+- [TheOneProbe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+- [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/cucumber) )
+- [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/cucumber) )
+- [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)
+- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) (+ [Lib(https://www.curseforge.com/minecraft/mc-mods/silent-lib) )
+- [Cloud Boots](https://www.curseforge.com/minecraft/mc-mods/cloud-boots-mod)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) (**Pre-configured like Limitless 1.**)
+- [Sound Device Options](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
+- [Colorful Healthbar](https://www.curseforge.com/minecraft/mc-mods/colorful-health-bar)
+- [Simple Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/simple-chunk-loaders) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) )
+- [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster)
+- [Industrial Reborn](https://www.curseforge.com/minecraft/mc-mods/industrial-reborn)
+- [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/libnonymous) )
+- [Refined Relocation](https://www.curseforge.com/minecraft/mc-mods/refined-relocation-2)
+- [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
+- [Extra Golems](https://www.curseforge.com/minecraft/mc-mods/extra-golems)
+- [CustomWindowTitle](https://www.curseforge.com/minecraft/mc-mods/custom-window-title)
+- [PreMenuScreen](https://www.curseforge.com/minecraft/mc-mods/pre-menu-screen)
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+- [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
+- [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
+- [CobbleForDays](https://www.curseforge.com/minecraft/mc-mods/cobblefordays)
+- [Ropes Mod!](https://www.curseforge.com/minecraft/mc-mods/ropes-mod)
+- [Speedy Ladders](https://www.curseforge.com/minecraft/mc-mods/speedy-ladders)
+- [SilentGems](https://www.curseforge.com/minecraft/mc-mods/silents-gems) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib) )
+- [SilentGear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib) )
+- [Respawnable Pets](https://www.curseforge.com/minecraft/mc-mods/respawnable-pets)
+- [Environmental Materials](https://www.curseforge.com/minecraft/mc-mods/environmental-materials)
+- [Torchbow Mod](https://www.curseforge.com/minecraft/mc-mods/torchbowmod)
+
+
+**Removed**
+- [Magic Mirror](https://www.curseforge.com/minecraft/mc-mods/magic-mirrors)
+- [Ender Enhancement](https://www.curseforge.com/minecraft/mc-mods/ender-enhancement)
+- [Simply Tea](https://www.curseforge.com/minecraft/mc-mods/simply-tea)
+- [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
+- [SuperTools](https://www.curseforge.com/minecraft/mc-mods/super-tools/)
+- [AnimalNet](https://www.curseforge.com/minecraft/mc-mods/animalnet)
+- [Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network)
+- [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
+- [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
+- [Simple Diving Gear](https://www.curseforge.com/minecraft/mc-mods/simple-diving-gear)
+- [Magic Feather](https://www.curseforge.com/minecraft/mc-mods/magic-feather)
+- [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
+- [Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)
+- [Taffy Daf](https://www.curseforge.com/minecraft/mc-mods/taffydaf)
+- [Industrial Reborn](https://www.curseforge.com/minecraft/mc-mods/industrial-reborn)
+
+
+**Changes**
+- Added a First Startup message that plays the first time you launch the modpack. (**Pre Menu Screen.**)
+- Pre-Configured Spice Of Life: Carrot Edition.
+- Disabled the 'Webber' Infernal Effect. (**Infernal Mobs.**)
+- Disabled Sapphire Worldgen. (**Bluepower.**) (**Available in SilentGems.**)
+- Disabled Ruby Worldgen. (**Bluepower.**) (**Available in SilentGems.**)
+- Disabled Amethyst Worldgen.  (**Bluepower.**) (**Available in SilentGems.**)
+- Disabled Silver Oregen (**Bluepower.**) (**Available in Mekanism.**)
+
+
+**Fixes**
+- A Severe duping bug was fixed in Extended Furnace mod. ( See: [GitHub Issue](https://www.curseforge.com/minecraft/mc-mods/extended-furnace/files/2871719) ! )
+- Fixed Ingot output when smelted on specific Ores in the Modpack.
+- An error when the pack was done loading has been fixed. (**BetterTitleScreen.**)
+
+
+**Updated**
+- Updated Forge to recommended 31.1.0!
+- Any mod that had an update available, that also didn't break things.
+
+
 <h1>v1.00</h1>
 
 **Note!**
