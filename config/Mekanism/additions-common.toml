@@ -1,0 +1,19 @@
+
+#Mekanism Additions Common Config. This config is not sync'd between server and client.
+[additions-common]
+
+	#Config options regarding baby skeletons.
+	[additions-common.baby-skeletons]
+		#The list of biome ids that baby skeletons will not spawn in even if normal skeletons can spawn in.
+		biomeBlackList = []
+		#The weight that a baby skeleton spawns.
+		#Range: 1 ~ 100
+		weight = 40
+		#The minimum group size of how many baby skeletons can spawn.
+		#Range: 1 ~ 2147483646
+		minSize = 1
+		#The maximum group size of how many baby skeletons can spawn.
+		maxSize = 3
+		#Enable the spawning of baby skeletons. Think baby zombies but skeletons.
+		shouldSpawn = true
+

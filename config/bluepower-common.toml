@@ -7,7 +7,7 @@
 	#Vein Count Zinc
 	veinCountZinc = 6
 	#Generate Ruby
-	generateRuby = true
+	generateRuby = false
 	#Amethyst Min Y
 	minAmethystY = 0
 	#Vein Size Zinc
@@ -19,7 +19,7 @@
 	#Teslatite Max Y
 	maxTeslatiteY = 20
 	#Generate Amethyst
-	generateAmethyst = true
+	generateAmethyst = false
 	#Generate Zinc
 	generateZinc = true
 	#Vein Size Teslatite
@@ -41,7 +41,7 @@
 	#Vein Size Ruby
 	veinSizeRuby = 5
 	#Generate Sapphire
-	generateSapphire = true
+	generateSapphire = false
 	#Vein Size Copper
 	veinSizeCopper = 7
 	#veinSizeMarble
@@ -75,7 +75,7 @@
 	#Zinc Max Y
 	maxZincY = 40
 	#Generate Silver
-	generateSilver = true
+	generateSilver = false
 	#Vein Size Sapphire
 	veinSizeSapphire = 5
 	#Vein Count Sapphire
