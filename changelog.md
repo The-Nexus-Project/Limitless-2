@@ -13,7 +13,6 @@
 - [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/cucumber) )
 - [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/cucumber) )
 - [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)
-- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib) )
 - [Cloud Boots](https://www.curseforge.com/minecraft/mc-mods/cloud-boots-mod)
 - [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) (**Pre-configured like Limitless 1.**)
 - [Sound Device Options](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
