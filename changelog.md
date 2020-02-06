@@ -1,3 +1,53 @@
+<h1>v1.02</h1>
+
+**1.15.2 Update Continuation!**
+
+
+**Added**
+- [/tank/null](https://www.curseforge.com/minecraft/mc-mods/tank-null)
+- [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
+- [Silent's Mechanisms](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms)
+- [Improved Stations](https://www.curseforge.com/minecraft/mc-mods/improved-stations-forge)
+- [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
+- [Xaeoro's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
+- [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) )
+- [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) )
+- [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) )
+- [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) )
+- [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) )
+- [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) )
+- [Anger Management](https://www.curseforge.com/minecraft/mc-mods/anger-management)
+
+
+**Removed**
+- [Branders Well Fed](https://www.curseforge.com/minecraft/mc-mods/well-fed)
+- [CraftingStation](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
+
+
+**Changes**
+- Disabled Zinc Ore generation. (**BluePower.**) (**Ore Dupe.**)
+- Disabled Copper Ore generation. (**Silent's Mechanisms.**) (**Ore Dupe.**)
+- Disabled Tin Ore generation. (**Silent's Mechanisms.**) (**Ore Dupe.**)
+- Added a Script to allow the crafting of 'Alloy Machine Frame' from any Steel Ingot. (**Silent's Mechanisms.**)
+- Added a Resource Pack icon for the TNP Limitless 2 Resource Pack. (**Openloader.**)
+- Modified the 'Limited Chunk Loader' Recipe a little bit. (**Simple Chunk Loaders.**)
+- Made 'Fruit Trees' Wood usable in some normal recipes, like craftingtable & chests. (**Fruit Trees.**)
+
+
+**Fixes**
+- Fixed Dungeon Loottable being empty. (**Empty Balloon chests etc.**)
+- Fixed multiple Ores yielding the wrong output when smelted in a Furnace/Blastfurnace. 
+- Fixed some some Ingot-Blocks when crafted back yielding Ingots from another mod vs from what it was originally crafted from.
+- Added new 'Animal Feed' recipe to prevent Recipe Conflicts. (**Essentials.**)
+- Minor fixes.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+
 <h1>v1.01</h1>
 
 **The 1.15.2 Update!**
