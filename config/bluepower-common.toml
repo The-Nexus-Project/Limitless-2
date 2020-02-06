@@ -21,7 +21,7 @@
 	#Generate Amethyst
 	generateAmethyst = false
 	#Generate Zinc
-	generateZinc = true
+	generateZinc = false
 	#Vein Size Teslatite
 	veinSizeTeslatite = 8
 	#Generate Copper

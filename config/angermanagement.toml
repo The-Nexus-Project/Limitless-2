@@ -1,0 +1,35 @@
+
+#settings
+[angermanagement]
+	#If you are testing all different combinations of config values for packdev, and want to log spam lots of info turn this on 
+	logSpamStuffToTest = false
+
+	[angermanagement.zombiepig]
+
+		[angermanagement.zombiepig.calming]
+			#Vertical range to look and find things to calm when player dies
+			#Range: 1 ~ 16
+			rangeVertical = 3
+			#Pigmen will become calm when a nearby player dies 
+			onDeathEnabled = true
+			#Horizontal range to look and find things to calm when player dies
+			#Range: 1 ~ 16
+			rangeHorizontal = 6
+
+		[angermanagement.zombiepig.anger]
+			#Vertical range to look and find things to anger 
+			#Range: 1 ~ 16
+			rangeVertical = 3
+			#List of blocks that will cause anger when mined.  Uses 'net.minecraftforge.event.world.BlockEvent.BreakEvent'.
+			blocksMined = ["minecraft:nether_quartz_ore", "minecraft:nether_wart", "minecraft:chest"]
+			#Horizontal range to look and find things to anger 
+			#Range: 1 ~ 16
+			rangeHorizontal = 16
+			#What percent (%) chance that mining will aggro something nearby (0 zero to disable)
+			#Range: 0 ~ 100
+			percentChance = 25
+
+	[angermanagement.irongolem]
+		#If true, aggro from Iron Golems to players is cancelled and damage is nullified 
+		neverAttackPlayer = true
+
