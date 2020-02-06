@@ -9,7 +9,7 @@
 - [Silent's Mechanisms](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms)
 - [Improved Stations](https://www.curseforge.com/minecraft/mc-mods/improved-stations-forge)
 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
-- [Xaeoro's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 - [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
 - [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) )
