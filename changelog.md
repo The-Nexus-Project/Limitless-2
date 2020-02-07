@@ -69,7 +69,6 @@
 - [Colorful Healthbar](https://www.curseforge.com/minecraft/mc-mods/colorful-health-bar)
 - [Simple Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/simple-chunk-loaders) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) )
 - [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster)
-- [Industrial Reborn](https://www.curseforge.com/minecraft/mc-mods/industrial-reborn)
 - [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/libnonymous) )
 - [Refined Relocation](https://www.curseforge.com/minecraft/mc-mods/refined-relocation-2)
 - [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
@@ -106,7 +105,6 @@
 - [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 - [Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)
 - [Taffy Daf](https://www.curseforge.com/minecraft/mc-mods/taffydaf)
-- [Industrial Reborn](https://www.curseforge.com/minecraft/mc-mods/industrial-reborn)
 
 
 **Changes**
