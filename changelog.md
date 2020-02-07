@@ -105,6 +105,7 @@
 - [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 - [Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)
 - [Taffy Daf](https://www.curseforge.com/minecraft/mc-mods/taffydaf)
+- [Industrial Reborn](https://www.curseforge.com/minecraft/mc-mods/industrial-reborn)
 
 
 **Changes**
