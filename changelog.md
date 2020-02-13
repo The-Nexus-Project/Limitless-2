@@ -1,3 +1,62 @@
+<h1>v1.03</h1>
+
+**Another 1.15.2 Update Continuation!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [SuperTools](https://www.curseforge.com/minecraft/mc-mods/super-tools)
+- [Smoke](https://www.curseforge.com/minecraft/mc-mods/smoke)
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+- [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
+- [SecurityCraft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
+- [Long Fall Boots](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)
+- [Custom Nausea](https://www.curseforge.com/minecraft/mc-mods/custom-nausea) (**Less annoying nausea!**)
+- [Soul Shards Reborn](https://www.curseforge.com/minecraft/mc-mods/soul-shards-respawn)
+- [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge)
+- [Colytra](https://www.curseforge.com/minecraft/mc-mods/colytra) (+ [API](https://www.curseforge.com/minecraft/mc-mods/caelus) )
+- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra) (+ [API](https://www.curseforge.com/minecraft/mc-mods/caelus) & [API-2](https://www.curseforge.com/minecraft/mc-mods/curios) )
+- [Curious Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/curious-shulker-boxes) (+ [API](https://www.curseforge.com/minecraft/mc-mods/curios) )
+- [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/patchouli) )
+- [Inventory Tweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/it-reborn)
+- [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring)
+
+
+**Removed**
+- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) (**Replaced by InventoryTweaks Reborn.**)
+
+
+**Changes**
+- Lowered the strength of the Nausea effect. (**Custom Nausea.**)
+- Lowered the strength of the Portal effect. (**Custom Nausea.**)
+
+
+**Recipe-Changes**
+- Updated the Recipe for the Angel Ring. (**Angel Ring Mod.**)
+- Updated the Recipe for the Diamond Ring. (**Angel Ring Mod.**)
+- Updated the Emerald Tools & Armor recipes. (**Cyclic.**)
+- Added a Recipe to the Platinum Sickle. (**SuperTools.**)
+- Removed Lapis Lazuli Tools & Armor recipes. (**SuperTools.**)
+- Disabled Sack Recipe. (**Cyclic.**) (**Dupe issues.**)
+- Removed some Sickle recipes as they were dupes & conflicting with other mods Sickles. (**SuperTools.**)
+- Removed some recipe-scripts. Normal recipes was added to the mod. (**Fruit Trees.**)
+
+
+**Fixes**
+- A texture issue with Flaxseeds-Plant was fixed. (**Silent Gear.**)
+- Other minor fixes within mods.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+
+**Server Files**
+- Added a completely new way to download the server files.
+- Added a Linux server startup script.
+
+
 <h1>v1.02</h1>
 
 **1.15.2 Update Continuation!**
