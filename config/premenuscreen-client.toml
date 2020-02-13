@@ -1,12 +1,13 @@
-#Should the screen appear on the next Start?
+# Should the screen appear on the next Start? This will reset after the screen has been displayed once 
+# You can use F5 to reload the screen or press shift + enter to continue without resetting the config. 
 shouldappear = false
-#The Header of the Message
+# The Header of the Message
 header = "§9Hello Player!"
-#The Body of the Message
+# The Body of the Message
 body = "Thank you for downloading & playing TNP Limitless 2! \n \n §fKeep in mind that some mods might have issues, bugs & glitches! That means the pack could be unstable at times. \n Find any issues? Be sure to report them on our Issue Tracker found on the left button below! \n \n §a- TNP, Gbergz."
-#The Text on the Button
+# The Text on the Button
 button = "Ok I understand, let me play!"
-#Optional: Adds a second button with a link that can be opened. Leave blank to disable the button
+# Optional: Adds a second button with a link that can be opened. Leave blank to disable the button
 link = "https://github.com/The-Nexus-Project/Limitless-2/issues"
 #Text on the Link Button
 linkButtonText = "Issue Tracker"
