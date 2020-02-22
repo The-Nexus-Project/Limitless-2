@@ -42,7 +42,7 @@
 - Added an Advancement when you spawn into a newly generated world or join a server for the first time. (**Welcome!**)
 - Updated the Sorting button texture. (**Inventory Tweaks Reborn.**)
 - Changed Modname Tooltip color to "Green". (**Mod Name Tooltip.**)
-- Made Leaf decay slower. (**FastLeafDecay*.*)
+- Made Leaf decay slower. (**FastLeafDecay.**)
 - Updated Menu buttons to be less round. (**OpenLoader.**)
 - Enabled Excavate Auto Pickup, except for the one block you're mining. (**Ore Excavation.**)
 - Increased Chance of mobs spawning with Mekanism Armor on, 0.03% > 0.08%. (**Mekanism Tools.**)
