@@ -1,27 +1,30 @@
 
 #Beginning of QuarryPlus configuration.
 [common]
-	#True to enable RS control of machines.
-	EnableRSControl = false
-	#True to allow machines to remove bedrock. (Just removing. Not collecting)
-	RemoveBedrock = false
-	#True to enable ChunkDestroyer to collect bedrock as item.
-	CollectBedrock = false
 	#True to make machines work with no energy.
 	NoEnergy = true
 	#True to enable debug mode.
 	debug = false
 	#Fasten quarry's head moving.
 	FastQuarryHeadMove = false
-	#Spawner Controller Blacklist
-	spawnerBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:area_effect_cloud", "minecraft:item", "minecraft:player"]
 	#Amount of energy WorkbenchPlus can receive in a tick. [MJ]
 	#Range: > 0
 	WorkbenchMaxReceive = 250
-	#Set false to allow PlumPlus to remove non-source fluid block.
-	RemoveOnlyFluidSource = false
+	#Range limit of ChunkDestroyer. set -1 to disable. The unit of number is `blocks`. 16 = 1 chunk.
+	#Range: > -1
+	QuarryRangeLimit = -1
 	#DisableFrameChainBreak
 	DisableFrameChainBreak = false
+	#True to enable RS control of machines.
+	EnableRSControl = false
+	#True to allow machines to remove bedrock. (Just removing. Not collecting)
+	RemoveBedrock = false
+	#True to enable ChunkDestroyer to collect bedrock as item.
+	CollectBedrock = false
+	#Spawner Controller Blacklist
+	spawnerBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:area_effect_cloud", "minecraft:item", "minecraft:player"]
+	#Set false to allow PlumPlus to remove non-source fluid block.
+	RemoveOnlyFluidSource = false
 
 	#Quarry PowerSetting [MJ] (min = 0, Max = 2,000,000,000 = 2 billion)
 	[common.PowerSetting]

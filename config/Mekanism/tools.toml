@@ -3,7 +3,7 @@
 [tools]
 	#The chance that Mekanism Armor can spawn on mobs.
 	#Range: 0.0 ~ 1.0
-	mobArmorSpawnRate = 0.03
+	mobArmorSpawnRate = 0.08
 
 	# Material Settings for steel
 	[tools.steel]

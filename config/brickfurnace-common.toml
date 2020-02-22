@@ -1,0 +1,6 @@
+
+#Options that affect some game mechanics.
+["Game Mechanics"]
+	#Enables the campfire recipe to make clay to bricks.
+	clayToBrickAtCampfireEnabled = false
+
