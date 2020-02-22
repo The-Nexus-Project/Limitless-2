@@ -46,7 +46,6 @@
 - Updated Menu buttons to be less round. (**OpenLoader.**)
 - Enabled Excavate Auto Pickup, except for the one block you're mining. (**Ore Excavation.**)
 - Increased Chance of mobs spawning with Mekanism Armor on, 0.03% > 0.08%. (**Mekanism Tools.**)
-- Biomes O' Plenty world-type is now selected by Default when creating a new world. (**Biomes O' Plenty.**)
 
 
 **Recipe Changes / Recipe Fixes**
