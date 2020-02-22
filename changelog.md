@@ -1,3 +1,84 @@
+<h1>v1.04</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Custom FoV](https://www.curseforge.com/minecraft/mc-mods/custom-fov)
+- [Cull Particles](https://www.curseforge.com/minecraft/mc-mods/cull-particles) (**FPS gains!**)
+- [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds)
+- [Archer's Paradox](https://www.curseforge.com/minecraft/mc-mods/archers-paradox) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/cofh-core) )
+- [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation) (+ [Lib](https://www.curseforge.com/minecraft/mc-mods/cofh-core) )
+- [Advanced Mining Dimension](https://www.curseforge.com/minecraft/mc-mods/advanced-mining-dimension)
+- [Curio of Undying](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [Equipment Tooltips](https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips)
+- [Powah](https://www.curseforge.com/minecraft/mc-mods/powah)
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+- [Carpet Stairs Mod](https://www.curseforge.com/minecraft/mc-mods/carpet-stairs-mod)
+- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+- [Sword Blocking Combat](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) (**Pre-configured.**)
+- [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
+- [Berry Bushes](https://www.curseforge.com/minecraft/mc-mods/berry-bushes)
+- [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
+- [Extreme Sound Muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
+- [Brick Furnace](https://www.curseforge.com/minecraft/mc-mods/brick-furnace)
+- [Searchable Chests](https://www.curseforge.com/minecraft/mc-mods/searchable-chests) (**Pre-configured.**)
+- [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
+- [Hunter Illager](https://www.curseforge.com/minecraft/mc-mods/hunterillager)
+
+
+**Removed**
+- No mods removed!
+
+
+**Changes**
+- The speed effect no longer affects your FoV, that is if you're not sprinting. (**Custom FoV.**)
+- Added an Advancement when you spawn into a newly generated world or join a server for the first time. (**Welcome!**)
+- Updated the Sorting button texture. (**Inventory Tweaks Reborn.**)
+- Changed Modname Tooltip color to "Green". (**Mod Name Tooltip.**)
+- Made Leaf decay slower. (**FastLeafDecay*.*)
+- Updated Menu buttons to be less round. (**OpenLoader.**)
+- Enabled Excavate Auto Pickup, except for the one block you're mining. (**Ore Excavation.**)
+- Increased Chance of mobs spawning with Mekanism Armor on, 0.03% > 0.08%. (**Mekanism Tools.**)
+- Biomes O' Plenty world-type is now selected by Default when creating a new world. (**Biomes O' Plenty.**)
+
+
+**Recipe Changes / Recipe Fixes**
+- Minor recipe change to the Inferium Furnace. (**Mystical Agriculture.**)
+- Minor recipe changes to the Iron Furnace & Upgrade kits. (**Iron Furnaces.**)
+- Small recipe changes to the Extended Furnace & some upgrades. (**Extended Furnace.**)
+- Refined Ingot can be achieved in a Vanilla 'Blast Furnace'. (**Silent's Mechanisms.**)
+- Recipe changes to 'Iron Furnaces' Augment upgrades. (**Iron Furnaces.**)
+- Vanilla Stone Tools recipe fix. (**Minecraft.**)
+
+
+**World Gen Changes**
+- Random Plants structure can now only spawn in Forests & Plains.
+- Prevented Balloon Structure to spawn in any dimension except the Overworld. (**Ruins**)
+
+
+**Server Files**
+- Added a Server Icon. (**Mod-Pack Icon.**)
+
+
+**Fixes**
+- Minor fixes within mod updates.
+- A severe duping exploit was fixed in InvTweaks Reborn. (See [Issue](https://github.com/Landmaster/InvTweaksReborn/issues/9) )
+- A crash was fixed when using the 'Auto Torch' from Cyclic. (See [Issue](https://github.com/Lothrazar/Cyclic/issues/1298#issuecomment-586740633) )
+
+
+**Updated**
+- Updated Forge to version 31.1.14!
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.03</h1>
 
 **Another 1.15.2 Update Continuation!**
@@ -56,6 +137,7 @@
 - Added a completely new way to download the server files.
 - Added a Linux server startup script.
 
+---------------
 
 <h1>v1.02</h1>
 
@@ -106,6 +188,7 @@
 **Updated**
 - Any mod that had an update available, that also didn't break things.
 
+---------------
 
 <h1>v1.01</h1>
 
@@ -187,6 +270,7 @@
 - Updated Forge to recommended 31.1.0!
 - Any mod that had an update available, that also didn't break things.
 
+---------------
 
 <h1>v1.00</h1>
 
@@ -207,6 +291,7 @@ This update can be considered as an Optional Update.
 **Changes**
 - Version bump to 1.00!
 
+---------------
 
 <h1>v0.05</h1>
 
@@ -256,6 +341,7 @@ An update to 1.15.2 will come eventually.
 **Updated**
 - Any mod that had an update available, that also didn't break things.
 
+---------------
 
 <h1>v0.04</h1>
 
@@ -296,6 +382,7 @@ An update to 1.15.2 will come eventually.
 - Updated Forge to version 30.0.42!
 - Any mod that had an update available.
 
+---------------
 
 <h1>v0.03</h1>
 
@@ -345,6 +432,7 @@ An update to 1.15.2 will come eventually.
 **Updated**
 - Any mod that had an update available.
 
+---------------
 
 <h1>v0.02</h1>
 
@@ -401,6 +489,7 @@ An update to 1.15.2 will come eventually.
 - Updated Forge to 30.0.41!
 - Any mod that had an update available.
 
+---------------
 
 <h1>v0.01</h1>
 
@@ -414,3 +503,5 @@ An update to 1.15.2 will come eventually.
 
 ~ Enjoy!
 - Gbergz
+
+---------------
