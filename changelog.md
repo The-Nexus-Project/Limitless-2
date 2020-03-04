@@ -1,3 +1,47 @@
+<h1>v1.05</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)
+- [ForgeEnderTech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
+- [StoneCatalysts](https://www.curseforge.com/minecraft/mc-mods/stonecatalysts)
+- [Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)
+- ["To The Bat Poles!"](https://www.curseforge.com/minecraft/mc-mods/to-the-bat-poles)
+- [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
+- [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Changed the spawn % of Baby Skeletons, 40% -> 10%. (**Mekanism.**)
+- Formatted Main Menu versioning better. (**BetterTitleScreen.**)
+- Updated Pack Icon on CF.
+- Some other very minor changes.
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Server Files**
+- Added a Linux Server-Startup Script. (**Thanks darkfire000!**)
+
+
+**Resources**
+- Updated Resource Pack Icon. (**Open Loader.**)
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to 31.1.16
+
+---------------
+
 <h1>v1.04</h1>
 
 **Always remember to backup your world(s) before updating!**
