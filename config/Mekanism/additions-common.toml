@@ -8,7 +8,7 @@
 		biomeBlackList = []
 		#The weight that a baby skeleton spawns.
 		#Range: 1 ~ 100
-		weight = 40
+		weight = 10
 		#The minimum group size of how many baby skeletons can spawn.
 		#Range: 1 ~ 2147483646
 		minSize = 1

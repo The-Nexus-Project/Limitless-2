@@ -62,4 +62,6 @@ alarmSoundVolume = 0.3
 #How fast can you rotate when mounted to a camera and holding W-A-S-D?
 #Range: 0.0 ~ 1.7976931348623157E308
 cameraSpeed = 2.0
+#Should the sentry/inventory scanner/laser block/etc. ignore players and entities that are invisible?
+respect_invisibility = false
 

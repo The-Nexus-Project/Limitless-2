@@ -1,0 +1,5 @@
+#Enables automatic switching to a third-person view while holding the pole
+switchToThirdPersonView = true
+#Switches between one key 'moveForward' and two keys 'moveForward/moveBackward' controls
+basicSlidingControl = false
+

@@ -20,8 +20,12 @@
 [classic_combat]
 	#Boost sharpness enchantment to add +1.0 attack damage per level instead of +0.5 damage.
 	"Boost Sharpness" = false
+	#Prevent particles created by a sweep attack from appearing.
+	"No Sweeping Particles" = false
 	#Don't automatically stop sprinting when attacking.
 	"Sprint While Attacking" = true
+	#Is the sweeping edge enchantment required to perform a sweep attack.
+	"Require Sweeping Edge" = false
 	#Completely remove the attack cooldown as if it never even existed in the first place.
 	"Remove Attack Cooldown" = false
 
@@ -40,14 +44,10 @@
 [modern_combat]
 	#Disables the default 0.5 second damage immunity when hit by a projectile. This makes it possible for entities to be hit by multiple projectiles at once, e. g. from a multishot enchanted crossbow.
 	"No Projectile Immunity" = true
-	#Prevent particles created by a sweep attack from appearing.
-	"No Sweeping Particles" = false
 	#Items to add a delay in ticks to after using. Doesn't override a delay an item has by default.
 	"Item Delay List" = ["minecraft:snowball,4", "minecraft:egg,4"]
 	#Makes the impaling enchantment apply when attack any creature in contact with rain or water; not just to aquatic mobs.
 	"Boost Impaling" = true
-	#Is the sweeping edge enchantment required to perform a sweep attack.
-	"Require Sweeping Edge" = false
 	#Only damages axes by 1 durability instead of 2 when attacking so they properly be used as weapons.
 	"No Axe Attack Penalty" = true
 	#Allow tridents to be fired from dispensers.
@@ -66,6 +66,9 @@
 	#Amount of ticks it takes to consume a food item. Vanilla default is 32.
 	#Range: 0 ~ 72000
 	"Eating Speed" = 32
+	#Food level from which on sprinting is disabled. Set to "-1" to always allow sprinting.
+	#Range: -1 ~ 20
+	"Sprinting Level" = 5
 	#"CLASSIC" option restores the pre-combat update system, "COMBAT" option introduces the changes from current combat snapshots, "CUSTOM" allows custom values to be supplied.
 	#Allowed Values: DEFAULT, CLASSIC, COMBAT, CUSTOM
 	"Food Ticker" = "DEFAULT"
