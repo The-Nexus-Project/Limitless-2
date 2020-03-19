@@ -1,3 +1,54 @@
+<h1>v1.06</h1>
+
+**New Minimap mod added, old one removed! Remember to backup your important waypoints!**
+**And always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) (**Pre-Configured.**)
+- [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful) (+ [Kottle](https://www.curseforge.com/minecraft/mc-mods/kottle) )
+- [Attribute Fix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- [Cycle Paintings](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
+- [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots) (+ [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) )
+- [Easy Elytra Takeoff](https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff)
+- [Extended Mushrooms](https://www.curseforge.com/minecraft/mc-mods/extended-mushrooms)
+- [FTB Teams](https://jenkins.latmod.com/job/FTB-Teams/) (+[Lib](https://jenkins.latmod.com/job/FTB-GUI-Library/) )
+- [FTB Chunks](https://jenkins.latmod.com/job/FTB-Chunks/) (+[Lib](https://jenkins.latmod.com/job/FTB-GUI-Library/) )
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
+- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
+- [Packmenu](https://www.curseforge.com/minecraft/mc-mods/packmenu)
+- [Mystical Adaptations](https://www.curseforge.com/minecraft/mc-mods/mystical-adaptations)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+- [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+- [Taffy Jump](https://www.curseforge.com/minecraft/mc-mods/taffyjump)
+- [Pickle Tweaks](https://www.curseforge.com/minecraft/mc-mods/pickle-tweaks)
+- [Swamp Expansion](https://www.curseforge.com/minecraft/mc-mods/swamp-expansion)
+- [Auraddons](https://www.curseforge.com/minecraft/mc-mods/auraddons)
+
+
+**Removed**
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+
+**Changes**
+- Overhauled the entire Main Menu & Menu Buttons. (**PackMenu.**)
+- Made buttons even less round. (**PackMenu.**)
+- Changed the Options Texture background. (**PackMenu.**)
+- Changed the spawn % of Baby Skeletons, 10% -> 4%. (Mekanism.)
+- Some minor changes within mod updates.
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 31.1.25!
+
+---------------
+
 <h1>v1.05</h1>
 
 **Always remember to backup your world(s) before updating!**
