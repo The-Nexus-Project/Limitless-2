@@ -6,7 +6,7 @@
 
 
 **Added**
-- [YAMDA](https://www.curseforge.com/minecraft/mc-mods/yamda) (**This is replacing [AMD](https://www.curseforge.com/minecraft/mc-mods/advanced-mining-dimension) ! )
+- [YAMDA](https://www.curseforge.com/minecraft/mc-mods/yamda) (**This is replacing** [AMD](https://www.curseforge.com/minecraft/mc-mods/advanced-mining-dimension) **!** )
 - [Ender Enhancement](https://www.curseforge.com/minecraft/mc-mods/ender-enhancement)
 - [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 - [Torch Bandolier](https://www.curseforge.com/minecraft/mc-mods/torch-bandolier)
