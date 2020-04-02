@@ -1,3 +1,52 @@
+<h1>v1.07</h1>
+
+**Old Mining Dimension mod has been removed this update, be sure to empty out any important items from that dim before updating!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [YAMDA](https://www.curseforge.com/minecraft/mc-mods/yamda) (**This is replacing [AMD](https://www.curseforge.com/minecraft/mc-mods/advanced-mining-dimension) ! )
+- [Ender Enhancement](https://www.curseforge.com/minecraft/mc-mods/ender-enhancement)
+- [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
+- [Torch Bandolier](https://www.curseforge.com/minecraft/mc-mods/torch-bandolier)
+- [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees)
+- [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight)
+- [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
+- [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network)
+- [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ( + [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) )
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+- [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
+- [Pam's HarvestCraft 2 - Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+- [Better Bedrock Generator](https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator) (**Flat bedrock layer.**)
+
+
+**Removed**
+- [Advanced Mining Dimension](https://www.curseforge.com/minecraft/mc-mods/advanced-mining-dimension) (**Replaced by** [YAMDA](https://www.curseforge.com/minecraft/mc-mods/yamda) ! )
+- [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) (**Now available in Quark.**)
+- [Searchable Chests](https://www.curseforge.com/minecraft/mc-mods/searchable-chests) (**Now available in Quark, button top right in any container.**)
+- [Pretty Beaches](https://www.curseforge.com/minecraft/mc-mods/pretty-beaches)
+
+
+**Changes**
+- Some minor changes within mod updates.
+- Getting a new heart now requires 10 new foods instead of  5. (**Spice Of Life: Carrot Edition.**)
+- Increased Max Life by eating food, 80 new hearts is now max. If that's even possible. (**Spice Of Life: Carrot Edition.**)
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 31.1.30!
+
+---------------
+
 <h1>v1.06</h1>
 
 **New Minimap mod added, old one removed! Remember to backup your important waypoints!**
