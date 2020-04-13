@@ -130,6 +130,7 @@
 		ExpPump = false
 		ModulePump = false
 		EnchantMoverFromBook = true
+		Placer = false
 		AdvancedPump = false
 		MiningwellPlus = false
 		Replacer = true

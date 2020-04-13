@@ -5,56 +5,44 @@
 	#Range: 0.0 ~ 1.0
 	"Blocked Damage Ratio" = 0.5
 	#Damage sword when blocking an attack depending on the amount of damage blocked. Sword is only damaged when at least three damage points have been blocked, just like a shield.
-	"Damage Sword" = false
-	#Swords to exclude from blocking. Intended for modded swords that already have their own right-click function. Format for every entry is "<namespace>:<id>".
+	"Damage Sword" = true
+	#Swords to exclude from blocking. Intended for modded swords that already have their own right-click function.
+	#Format for every entry is "<namespace>:<path>". Path may use single asterisk as wildcard parameter.
 	"Blocking Exclusion List" = []
 	#Incoming projectiles such as arrows or tridents will ricochet while blocking.
 	"Deflect Projectiles" = false
-	#Amount of ticks after which blocking using a sword is effective.
+	#Amount of ticks after starting to block in which an attack will be completely nullified like when blocking with a shield.
 	#Range: 0 ~ 72000
-	"Warm-Up Delay" = 0
-	#Items to include for blocking. Intended for modded swords that don't extend vanilla swords. Format for every entry is "<namespace>:<id>".
+	"Parry Window" = 8
+	#Items to include for blocking. Intended for modded swords that don't extend vanilla swords.
+	#Format for every entry is "<namespace>:<path>". Path may use single asterisk as wildcard parameter.
 	"Blocking Inclusion List" = []
+	#Percentage to slow down movement to while blocking.
+	#Range: 0.0 ~ 2.147483647E9
+	"Walking Modifier" = 0.2
 
-#Restores pre-combat update combat mechanics.
+#Restores pre-Combat Update combat mechanics.
 [classic_combat]
+	#Fishing bobbers deal knockback upon hitting an entity, also entities being pulled in are slightly propelled upwards.
+	"Old Fishing Bobber Behaviour" = true
 	#Boost sharpness enchantment to add +1.0 attack damage per level instead of +0.5 damage.
 	"Boost Sharpness" = false
 	#Prevent particles created by a sweep attack from appearing.
 	"No Sweeping Particles" = false
 	#Don't automatically stop sprinting when attacking.
 	"Sprint While Attacking" = true
+	#Prevent attack indicator from showing regardless of what's been set in "Video Settings".
+	"Disable Attack Indicator" = false
 	#Is the sweeping edge enchantment required to perform a sweep attack.
 	"Require Sweeping Edge" = false
+	#Revert weapon and tool attack damage to old values.
+	"Old Damage Values" = true
+	#Armor on entities turns red when they receive damage.
+	"Armor Shows Hurt" = true
+	#Remove "Attack Speed" attribute from tooltips.
+	"No Attack Speed Tooltip" = false
 	#Completely remove the attack cooldown as if it never even existed in the first place.
 	"Remove Attack Cooldown" = false
-
-#Allows changing various stats of items, mainly for restoring pre-combat update values.
-[material_changer]
-	#Specify a value ADDED to the attack damage attribute for any item. Format for every entry is "<namespace>:<id>,<value>".
-	"Attack Damage List" = ["minecraft:diamond_sword,1.0", "minecraft:diamond_axe,-2.0", "minecraft:diamond_pickaxe,1.0", "minecraft:diamond_shovel,-0.5", "minecraft:diamond_hoe,3.0", "minecraft:iron_sword,1.0", "minecraft:iron_axe,-3.0", "minecraft:iron_pickaxe,1.0", "minecraft:iron_shovel,-0.5", "minecraft:iron_hoe,2.0", "minecraft:stone_sword,1.0", "minecraft:stone_axe,-4.0", "minecraft:stone_pickaxe,1.0", "minecraft:stone_shovel,-0.5", "minecraft:stone_hoe,1.0", "minecraft:wooden_sword,1.0", "minecraft:wooden_axe,-3.0", "minecraft:wooden_pickaxe,1.0", "minecraft:wooden_shovel,-0.5", "minecraft:golden_sword,1.0", "minecraft:golden_axe,-3.0", "minecraft:golden_pickaxe,1.0", "minecraft:golden_shovel,-0.5"]
-	#Change the durability for any tool. Setting it to 0 will make the tool unbreakable. Format for every entry is "<namespace>:<id>,<value>".
-	"Tool Durability List" = []
-	#Specify a value ADDED to the attack speed attribute for any item. Not compatible with "classic_combat" features. Format for every entry is "<namespace>:<id>,<value>".
-	"Attack Speed List" = []
-	#Specify the max stack size for any item. Value has to be between 0 and 64. Format for every entry is "<namespace>:<id>,<value>".
-	"Max Stack Size List" = ["minecraft:snowball,64", "minecraft:ender_eye,16"]
-
-#Introduces various changes from current combat snapshots.
-[modern_combat]
-	#Disables the default 0.5 second damage immunity when hit by a projectile. This makes it possible for entities to be hit by multiple projectiles at once, e. g. from a multishot enchanted crossbow.
-	"No Projectile Immunity" = true
-	#Items to add a delay in ticks to after using. Doesn't override a delay an item has by default.
-	"Item Delay List" = ["minecraft:snowball,4", "minecraft:egg,4"]
-	#Makes the impaling enchantment apply when attack any creature in contact with rain or water; not just to aquatic mobs.
-	"Boost Impaling" = true
-	#Only damages axes by 1 durability instead of 2 when attacking so they properly be used as weapons.
-	"No Axe Attack Penalty" = true
-	#Allow tridents to be fired from dispensers.
-	"Dispense Tridents" = true
-	#Amount of ticks after which blocking using a shield is effective. Used to be 5 ticks before combat snapshots.
-	#Range: 0 ~ 72000
-	"Shield Warm-Up Delay" = 0
 
 #Changes the way the player heals from food.
 [food_buffs]
@@ -63,16 +51,56 @@
 	"Regeneration Food Level" = 18
 	#Drain food instead of saturation when regenerating. Only applies when "Food Ticker" is set to "CUSTOM".
 	"Regenerate From Food" = false
-	#Amount of ticks it takes to consume a food item. Vanilla default is 32.
+	#Amount of ticks it takes to consume a food item. Has been increased to 40 in Combat Test Snapshots.
 	#Range: 0 ~ 72000
 	"Eating Speed" = 32
 	#Food level from which on sprinting is disabled. Set to "-1" to always allow sprinting.
 	#Range: -1 ~ 20
 	"Sprinting Level" = 5
-	#"CLASSIC" option restores the pre-combat update system, "COMBAT" option introduces the changes from current combat snapshots, "CUSTOM" allows custom values to be supplied.
+	#"CLASSIC" option restores the pre-Combat Update system, "COMBAT" option introduces the changes from current Combat Test Snapshots, "CUSTOM" allows custom values to be supplied.
 	#Allowed Values: DEFAULT, CLASSIC, COMBAT, CUSTOM
 	"Food Ticker" = "DEFAULT"
 	#Amount of ticks between regenerating when enough food is present. Only applies when "Food Ticker" is set to "CUSTOM".
 	#Range: > 0
 	"Regeneration Delay" = 80
+
+#Introduces various tweaks from Combat Test Snapshots.
+[combat_test]
+	#Disables the default 0.5 second damage immunity when hit by a projectile. This makes it possible for entities to be hit by multiple projectiles at once, e. g. from a multishot enchanted crossbow.
+	"No Projectile Immunity" = true
+	#Make "Coyote Time" only work on small mobs.
+	"Coyote Small Mobs" = false
+	#Increase snowball stack size to 64.
+	"Increase Snowball Stack Size" = true
+	#Is blocking using a shield only effective after 5 ticks like before Combat Test Snapshots.
+	"Shield Warm-Up Delay" = false
+	#Hold down the attack key to attack automatically whenever possible.
+	"Hold Attack Button" = false
+	#Items to add a delay in ticks to after using. Doesn't override a delay an item has by default.
+	#Format for every entry is "<namespace>:<path>,<value>". Path may use single asterisk as wildcard parameter.
+	"Item Delay List" = ["minecraft:snowball,4", "minecraft:egg,4"]
+	#The attack timer is unaffected by switching items.
+	"Fast Tool Switching" = true
+	#Makes the impaling enchantment apply when attack any creature in contact with rain or water; not just to aquatic mobs.
+	"Boost Impaling" = true
+	#Show a shield indicator similar to the attack indicator when actively blocking.
+	#Allowed Values: OFF, CROSSHAIR, HOTBAR
+	"Shield Indicator" = "CROSSHAIR"
+	#Hit mobs through blocks without a collision shape such as grass without breaking the block.
+	"Swing Through Grass" = true
+	#Only damages axes by 1 durability instead of 2 when attacking so they properly be used as weapons.
+	"No Axe Attack Penalty" = true
+	#Allow tridents to be fired from dispensers.
+	"Dispense Tridents" = true
+	#Item projectiles like snowballs and ender pearls pass through blocks without a collision shape and deal knockback to players.
+	"Improve Item Projectiles" = true
+	#Improved arm swing animation to emphasize the rhythm of the attacks.
+	"Better Swing Animation" = true
+	#Turns knockback resistance into a scale instead of being random and makes knockback have an upwards tendency.
+	"Upwards Knockback" = false
+	#Amount of ticks a mob can still be interacted with after no longer aiming at it.
+	#Range: > 0
+	"Coyote Time" = 0
+	#Prevent shield from rendering when actively blocking. Useful when "Shield Indicator" is enabled.
+	"Hide Shield" = false
 

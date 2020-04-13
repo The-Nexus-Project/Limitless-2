@@ -10,6 +10,13 @@
     "redstone": true,
     "repeater": true
   },
+  "botanypots": {
+    "show_progress": true,
+    "show_time": true,
+    "show_crop": true,
+    "show_soil": true,
+    "show_debug": false
+  },
   "fluidtank": {
     "fluidtank.waila.tank_info": true,
     "fluidtank.waila.short_info": true

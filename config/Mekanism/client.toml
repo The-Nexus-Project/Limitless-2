@@ -1,12 +1,12 @@
 
 #Client Config. This config only exists on the client
 [client]
-	#Allow sneak+scroll to change Configurator modes.
-	allowConfiguratorModeScroll = true
-	#Should active machines produce block light.
-	enableAmbientLighting = true
+	#Allow sneak + scroll to change item modes.
+	allowModeScroll = true
 	#Set to false to prevent particle spam when loading multiblocks (notification message will display instead).
 	enableMultiblockFormationParticles = true
+	#Should active machines produce block light.
+	enableAmbientLighting = true
 	#If enabled machines play their sounds while running.
 	enableMachineSounds = true
 	#If true, don't render Cables/Pipes/Tubes as transparent and don't render their contents.
@@ -22,6 +22,8 @@
 	alignHUDLeft = true
 	#Show particles when machines active.
 	machineEffects = true
+	#Enable item information HUD during gameplay
+	enableHUD = true
 	#How much light to produce if ambient lighting is enabled.
 	#Range: 1 ~ 15
 	ambientLightingLevel = 15

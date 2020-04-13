@@ -11,5 +11,5 @@
 
 ["custom text"]
 	#Insert the custom title screen text you want here (supports multiple lines)
-	text = ["§aTNP Limitless §2§l§o2", "§aVersion: §2§o1.05", "§7Minecraft 1.15.2"]
+	text = ["§aTNP Limitless §2§l§o2", "§aVersion: §2§o1.08", "§7Minecraft 1.15.2"]
 

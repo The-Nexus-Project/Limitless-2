@@ -1,12 +1,24 @@
 
+#Tools
+[ender_tools]
+	#Enable Ender Swords
+	sword = true
+	#Enable Ender Pickaxes (Will also disable Multitool)
+	pickaxe = true
+	#Enable Ender Shovels (Will also disable Multitool)
+	shovel = true
+	#Enable Ender Multitools
+	multitool = true
+	#Enable Ender Axes (Will also disable Multitool)
+	axe = true
+	#Enable Ender Hoes
+	hoe = true
+
 #General settings
 [general]
 	#Accumulator range base (Modified by tier multiplier)
 	#Range: 1 ~ 128
 	accumulator_range = 4
-	#Maximum Endergy Storage
-	#Range: > 1
-	endergy_storage = 1000
 	#Multiplier for Ender tier.
 	#Range: 1 ~ 16
 	ender = 2
@@ -69,4 +81,26 @@
 		#Set to 5 to never cause a water teleport.
 		#Range: 1 ~ 5
 		extreme = 5
+
+#Blocks
+[ender_blocks]
+	#Enable Ender Pedestal
+	pedestal = true
+	#Enable Ender Ores
+	ores = true
+
+	#Ores
+	[ender_blocks.ender_ores]
+		#Maximum Ender Ore vein (Also effects ore frequency)
+		#Range: 1 ~ 20
+		ender = 5
+		#Maximum Empowered Ore vein (Also effects ore frequency)
+		#Range: 1 ~ 20
+		empowered = 3
+		#Maximum Dull Ore vein (Also effects ore frequency)
+		#Range: 1 ~ 20
+		dull = 4
+		#Maximum Extreme Ore vein (Also effects ore frequency)
+		#Range: 1 ~ 20
+		extreme = 2
 
