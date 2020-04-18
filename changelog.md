@@ -1,3 +1,46 @@
+<h1>v1.08</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
+- [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)
+- [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
+- [FTB Backups](https://jenkins.latmod.com/downloadlinks/)
+- [JEI Tweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+- [Reliquary](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
+- [Strange](https://www.curseforge.com/minecraft/mc-mods/strange)
+- [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
+- [Quick Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay)
+
+
+**Removed**
+- [FastLeafDecay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (**Caused Crashes, replaced by [QLD](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) )
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) (**Already available in [SBC](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) **!**)
+
+
+**Changes**
+- New Biome Ambient sounds. (**Can be turned down in Music & Sounds menu, under Ambient/Environment. The Slider.**)
+- Disabled InvTweaks Sorting button while in a GUI. (**i.e. Keybind only. Middle Mouse button by default.**)
+- Hid some items from View in JEI. (**JEITweaker.**)
+- Made Pam's HarvestCraft fruit trees a little less common, 500 weight -> 1000 weight.
+- Some minor changes within mod updates.
+
+
+**Fixes**
+- Fixed multiple furnace recipes & normal recipes outputting the wrong items.
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 31.1.46!
+
+---------------
+
 <h1>v1.07</h1>
 
 **Old Mining Dimension mod has been removed this update, be sure to empty out any important items from that dim before updating!**
