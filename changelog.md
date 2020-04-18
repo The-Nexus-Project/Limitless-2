@@ -18,8 +18,8 @@
 
 
 **Removed**
-- [FastLeafDecay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (**Caused Crashes, replaced by [QLD](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) )
-- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) (**Already available in [SBC](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) **!**)
+- [FastLeafDecay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (**Caused Crashes, replaced by** [QLD](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) )
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) (**Already available in** [SBC](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) **!**)
 
 
 **Changes**
