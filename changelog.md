@@ -18,13 +18,13 @@
 
 
 **Removed**
+- [InvTweaks Reborn](https://www.curseforge.com/minecraft/mc-mods/it-reborn) (**Removed from CurseForge!**)
 - [FastLeafDecay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (**Caused Crashes, replaced by** [QLD](https://www.curseforge.com/minecraft/mc-mods/quick-leaf-decay) )
 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass) (**Already available in** [SBC](https://www.curseforge.com/minecraft/mc-mods/sword-blocking-combat) **!**)
 
 
 **Changes**
 - New Biome Ambient sounds. (**Can be turned down in Music & Sounds menu, under Ambient/Environment. The Slider.**)
-- Disabled InvTweaks Sorting button while in a GUI. (**i.e. Keybind only. Middle Mouse button by default.**)
 - Hid some items from View in JEI. (**JEITweaker.**)
 - Made Pam's HarvestCraft fruit trees a little less common, 500 weight -> 1000 weight.
 - Some minor changes within mod updates.
