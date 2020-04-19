@@ -25,6 +25,7 @@
 
 **Changes**
 - New Biome Ambient sounds. (**Can be turned down in Music & Sounds menu, under Ambient/Environment. The Slider.**)
+- Enabled Quark's Inventory Sorting temporarily. (**Button top right over inventory slots. Or any other container.**)
 - Hid some items from View in JEI. (**JEITweaker.**)
 - Made Pam's HarvestCraft fruit trees a little less common, 500 weight -> 1000 weight.
 - Some minor changes within mod updates.
