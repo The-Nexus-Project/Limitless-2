@@ -1,3 +1,34 @@
+<h1>v1.08a</h1>
+
+**Small update, updating mods. 1 Mod addition.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Glassentials](https://www.curseforge.com/minecraft/mc-mods/glassential)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Reverted Pam's Fruit Trees spawn probability back to it's original value, 1000 -> 5000. (**Pam's HC2 Fruit Trees**)
+- Some minor changes within mod updates.
+
+
+**Fixes**
+- Updated a few mods to fix some crashes.
+- Re-Enabled Quark's Inventory Sorting.
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v1.08</h1>
 
 **Always remember to backup your world(s) before updating!**
