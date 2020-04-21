@@ -14,13 +14,15 @@
 
 
 **Changes**
-- Reverted Pam's Fruit Trees spawn probability back to it's original value, 1000 -> 5000. (**Pam's HC2 Fruit Trees**)
+- Reverted Pam's Fruit Trees spawn probability back to it's original value, 1000 -> 5000. (Pam's HC2 Fruit Trees)
+- Re-Enabled Quark's Inventory Sorting.
 - Some minor changes within mod updates.
 
 
 **Fixes**
+- Fixed SoulShards Reborn Mod missing in Server Files.
+- Fixed Ores dropping as Ingots instead of Ores.
 - Updated a few mods to fix some crashes.
-- Re-Enabled Quark's Inventory Sorting.
 - Minor fixes within mod updates.
 
 
