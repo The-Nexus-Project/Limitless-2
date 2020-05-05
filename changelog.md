@@ -1,3 +1,47 @@
+<h1>v1.09</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Bouncy Bouncy](https://www.curseforge.com/minecraft/mc-mods/bouncy-bouncy)
+- [Better Crates](https://www.curseforge.com/minecraft/mc-mods/better-crates) (+ [Lag's Lib](https://www.curseforge.com/minecraft/mc-mods/lags-lib) requirement. )
+- [Craft And Hunt](https://www.curseforge.com/minecraft/mc-mods/craft-and-hunt)
+- [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (**ALPHA VERSION!** Report any issues you find on their [GitHub.com/CC-Tweaked](https://github.com/SquidDev-CC/CC-Tweaked/issues) **!** ) 
+- [FTB Ranks](https://jenkins.latmod.com/job/FTB-Ranks/)
+- [Industrial Agriculture](https://www.curseforge.com/minecraft/mc-mods/industrial-agriculture) (**Mystical Agriculture Addon!**)
+- [Morph-o-tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)
+- [Pyramid Plunder](https://www.curseforge.com/minecraft/mc-mods/pyramid-plunder)
+- [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Rats](https://www.curseforge.com/minecraft/mc-mods/rats) (+ [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) requirement. )
+- [Reload Audio Driver](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)
+- [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
+- [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks) (+ [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) )
+- [Slime Tweaks](https://www.curseforge.com/minecraft/mc-mods/slime-tweaks)
+- [Tesseract](https://www.curseforge.com/minecraft/mc-mods/tesseract)
+
+
+**Removed**
+- [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod)
+- [Colorful Healthbar](https://www.curseforge.com/minecraft/mc-mods/colorful-health-bar) (**Now available in Mantle!**)
+- [Pre Menu Screen](https://www.curseforge.com/minecraft/mc-mods/pre-menu-screen)
+
+
+**Changes**
+- Some minor changes within mod updates.
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 31.1.74!
+
+---------------
+
 <h1>v1.08a</h1>
 
 **Small update, updating mods. 1 Mod addition.**
