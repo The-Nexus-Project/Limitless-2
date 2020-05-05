@@ -5,7 +5,7 @@
 
 **Added**
 - [Bouncy Bouncy](https://www.curseforge.com/minecraft/mc-mods/bouncy-bouncy)
-- [Better Crates](https://www.curseforge.com/minecraft/mc-mods/better-crates) (+ [Lag's Lib](https://www.curseforge.com/minecraft/mc-mods/lags-lib) requirement. )
+- [Better Crates](https://www.curseforge.com/minecraft/mc-mods/better-crates) (**+** [Lag's Lib](https://www.curseforge.com/minecraft/mc-mods/lags-lib) **requirement.** )
 - [Craft And Hunt](https://www.curseforge.com/minecraft/mc-mods/craft-and-hunt)
 - [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (**ALPHA VERSION!** Report any issues you find on their [GitHub.com/CC-Tweaked](https://github.com/SquidDev-CC/CC-Tweaked/issues) **!** ) 
 - [FTB Ranks](https://jenkins.latmod.com/job/FTB-Ranks/)
@@ -14,15 +14,16 @@
 - [Pyramid Plunder](https://www.curseforge.com/minecraft/mc-mods/pyramid-plunder)
 - [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
-- [Rats](https://www.curseforge.com/minecraft/mc-mods/rats) (+ [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) requirement. )
+- [Rats](https://www.curseforge.com/minecraft/mc-mods/rats) (**+** [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) **requirement.** )
 - [Reload Audio Driver](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)
 - [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
-- [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks) (+ [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) )
+- [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks) (**+** [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) **!** )
 - [Slime Tweaks](https://www.curseforge.com/minecraft/mc-mods/slime-tweaks)
 - [Tesseract](https://www.curseforge.com/minecraft/mc-mods/tesseract)
 
 
 **Removed**
+- [Smoke](https://www.curseforge.com/minecraft/mc-mods/smoke) (**Removed from CurseForge!**)
 - [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod)
 - [Colorful Healthbar](https://www.curseforge.com/minecraft/mc-mods/colorful-health-bar) (**Now available in Mantle!**)
 - [Pre Menu Screen](https://www.curseforge.com/minecraft/mc-mods/pre-menu-screen)
