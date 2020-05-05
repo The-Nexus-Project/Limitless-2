@@ -14,6 +14,7 @@
 - [Pyramid Plunder](https://www.curseforge.com/minecraft/mc-mods/pyramid-plunder)
 - [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)
 - [Rats](https://www.curseforge.com/minecraft/mc-mods/rats) (**+** [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) **requirement.** )
 - [Reload Audio Driver](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)
 - [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
