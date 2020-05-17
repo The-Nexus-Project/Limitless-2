@@ -1,3 +1,18 @@
+<h1>v1.09.1</h1>
+
+**Minor update, adding an Official Limitless 2 Server to Multiplayer section.**
+
+**Added**
+- [Featured Servers](https://www.curseforge.com/minecraft/mc-mods/featured-servers)
+
+**Removed**
+- No mods.
+
+**Changes**
+- Added a Server to Multiplayer section.
+
+---------------
+
 <h1>v1.09</h1>
 
 **Always remember to backup your world(s) before updating!**
