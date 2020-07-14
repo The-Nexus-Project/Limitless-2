@@ -1,3 +1,36 @@
+<h1>v2.0.0</h1>
+
+**The Quest Update!**
+
+**VERY IMPORTANT** - **A fresh installation of the modpack is needed for this update!**
+
+**This update has been rebuilt from the ground up. Meaning alot has changed. Read below for more info.**
+
+**And always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- There's too many changes for me to note here but i'll put up the obvious ones.
+- Quests has been added. There's a total of 12 Chapters, 15 if you include the Vanilla Advancement Quests.
+- Quests have rewards, mostly Loot Bags which can drop good loot or some bad loot, rng decides your fate.
+- A lot of mods removed, that means old worlds will NOT be compatible with this update, try if you want to. (Be sure to requests if there's a mod missing you want back!)
+- Cleaned up the World Gen. Disabled duplicate biomes, disabled some ugly looking biomes. And also Disabled duplicate Ores.
+- Enabled all Nether ores in the mod Basic Nether Ores. Tin, Lead, Silver and more! Also swapped out the textures to match the Overworld Ores.
+- Almost all modded keybinds have been unbound, mainly to prevent mods using the same keybinds. Be sure to re-bind anything you need!
+- New recipes for the Angel Ring, Tesseract and some other items/blocks.
+- Some minor changes within mod updates.
+
+
+**Fixes**
+- There's been quite a few fixes, but then again there's too much to write it all down, and mainly because i've forgot.
+
+
+**Updated**
+- All mods that had an update available have been updated.
+- Updated Forge to version 31.2.31
+
+---------------
+
 <h1>v1.09.1</h1>
 
 **Minor update, adding an Official Limitless 2 Server to Multiplayer section.**
