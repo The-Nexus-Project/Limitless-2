@@ -11,7 +11,7 @@
 
 **Changes**
 - There's too many changes for me to note here but i'll put up the obvious ones.
-- Quests has been added. There's a total of 12 Chapters, 15 if you include the Vanilla Advancement Quests.
+- Quests has been added. There's a total of 12 Chapters, 15 if you include the Vanilla Advancement Quests. (Total of 665 Quests.)
 - Quests have rewards, mostly Loot Bags which can drop good loot or some bad loot, rng decides your fate.
 - A lot of mods removed, that means old worlds will NOT be compatible with this update, try if you want to. (Be sure to requests if there's a mod missing you want back!)
 - Cleaned up the World Gen. Disabled duplicate biomes, disabled some ugly looking biomes. And also Disabled duplicate Ores.
