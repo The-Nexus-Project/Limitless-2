@@ -1,3 +1,35 @@
+<h1>v2.0.1</h1>
+
+**Smaller minor update with some fixes.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [CraftingCraft](https://www.curseforge.com/minecraft/mc-mods/craftingcraft)
+
+
+**Removed**
+- No mods have been removed.
+
+
+**Changes**
+- Disabled the VanillaTweaks crafting pad due to it not displaying crafting outputs.
+- Replaced Crafting Pad with Portable Crafting Table in one of the Quests.
+- Updated multiple quest descriptions/subtitles.
+- Added missing reward for the 'Zombie Doctor' quest.
+
+
+**Fixes**
+- Moved the Neat HP Plate a little higher up to not make it overlap with player names.
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- All mods that had an update available have been updated.
+
+---------------
+
 <h1>v2.0.0</h1>
 
 **The Quest Update!**
