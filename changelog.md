@@ -1,3 +1,31 @@
+<h1>v2.0.2</h1>
+
+**Pam's HarvestCraft 2 - Trees removed due to server file approval issues.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods.
+
+
+**Removed**
+- [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+
+
+**Changes**
+- Minor changes within mod updates.
+
+
+**Fixes**
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- All mods that had an update available have been updated.
+
+---------------
+
 <h1>v2.0.1</h1>
 
 **Smaller minor update with some fixes.**
