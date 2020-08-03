@@ -27,6 +27,12 @@
 **Updated**
 - All mods that had an update available have been updated.
 
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz | Bisecthosting.com/Gbergz**
+
 ---------------
 
 <h1>v2.0.2</h1>
