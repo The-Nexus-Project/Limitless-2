@@ -1,3 +1,45 @@
+<h1>0.7.3</h1>
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla) (**Added Temporarily.**)
+- [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+- [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+
+
+**Removed**
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+- [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) (**Temporarily Removed until player rotation reset is fixed.**)
+
+
+**Changes**
+- Added a 'Ore Crushing Hammer' recipe to the Nether Osmium Ore.
+- You can now search for a specific item by typing the item into the JEI search field and then double clicking.
+- Updated the 'Ring of Magnetism' recipe.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Temporarily fixed player rotation being reset when looking at another player.
+- Slime not spawning in modded biomes has been fixed.
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz | Bisecthosting.com/Gbergz**
+
+---------------
+
 <h1>v2.0.2</h1>
 
 **Pam's HarvestCraft 2 - Trees removed due to server file approval issues.**
