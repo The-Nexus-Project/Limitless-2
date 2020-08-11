@@ -2,54 +2,33 @@
 name: Bug/Glitch or Crash Report
 about: Report a Crash or a Bug/Glitch you've encountered!
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
 
-**Remember! 
-If you can identify which mod is crashing, please report it on their Issue Tracker instead of this one!**
-(Remove the text above^ before submitting the report!)
+### Describe your issue, what happened?
+<!-- A clear and concise description of what the bug is. Delete this before submitting. -->
 
-**Describe what happened:**
-A clear and concise description of what happened.
-(Remove this text & the text above^ and only provide the correct info.)
+### To Reproduce
+<!-- Steps to reproduce the issue/error/crash, (can be edited): Delete this before submitting. -->
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**To Reproduce**
-Steps to reproduce (double check if you can do it yourself):
-1. Do this.
-2. Do that.
-3. And finally..
-4. Result.
+### Expected behavior
+<!-- A clear and concise description of what you expected to happen. Delete this before submitting. -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-(Remove this text & the text above^ and only provide the correct info.)
+### Screenshots
+<!-- If applicable, add screenshots to help explain your problem. Delete this before submitting. -->
 
-**Crash-reports**
-If applicable, upload your Crash-reports help explain your problem.
-DON'T PASTE THE ENTIRE CRASH REPORT HERE!
-USE PASTE SITES LIKE: Paste.ee, Gist Github, Pastebin & Hastebin.
-(Remove this text & the text above^ and only provide the link.)
 
-**Logs / Debuglogs**
-If applicable, upload your Logs to help explain your problem.
-DON'T PASTE THE ENTIRE CRASH REPORT HERE!
-USE PASTE SITES LIKE: Paste.ee, Gist Github, Pastebin & Hastebin.
-(Remove this text & the text above and only provide the link.)
+### Crash Reports & Logs (Don't paste entire crash reports here.)
+<!-- If applicable, upload your Crash-reports help explain your problem. Delete this before submitting. --> 
+<!-- Use sites like: Paste.ee, Pastebin.com & Hastebin.com, Gists Github. -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-Use upload site like Imgur.
-(Remove this text & the text above^ and only provide the link.)
-
-**Java Info:**
- - Java Version: 
- - 64bit/32bit: 
-
-**My OS (Mac/Win10/Linux)**
-- 
-
-**Additional context**
-Add any other context about the problem here.
-(Remove this text & the text above^ and only provide the correct info.)
+### Affected Version
+<!-- (Do *not* use "latest"): Delete this before submitting. -->
+- Pack Version: 
+- On a server?:
