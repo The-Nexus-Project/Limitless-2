@@ -1,3 +1,50 @@
+<h1>v2.0.4</h1>
+
+**Astral Sorcery & Applied Energistics 2 Update (+ More!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
+- [More Overlays](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+
+
+**Removed**
+- [Featured Servers](https://www.curseforge.com/minecraft/mc-mods/featured-servers)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) (**Replaced by More Overlays!**)
+- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)
+- [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
+
+
+
+**Changes**
+- Atomic Alloy Quest no longer has the '**Dissolution Chamber**' as a dependency.
+- Disabled '**Neat**' health tag on Players.
+- Other changes within some mod updates.
+
+
+**Fixes**
+- Fixed Atomic Alloy Quest having the 'Dissolution Chamber' Quest as a dependency.
+- More fixes within some mod updates.
+
+
+**Updated**
+- Updated Forge to version 31.2.36
+- All mods that had an update available have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.3</h1>
 
 **The One Probe has been swapped out for HWYLA this smaller update due to some issues.**
