@@ -28,7 +28,7 @@
 
 
 **Fixes**
-- Fixed Atomic Alloy Quest having the 'Dissolution Chamber' Quest as a dependency.
+- Fixed Atomic Alloy Quest having the '**Dissolution Chamber**' Quest as a dependency.
 - More fixes within some mod updates.
 
 
