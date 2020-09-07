@@ -1,6 +1,6 @@
 <h1>v2.1.0a</h1>
 
-**Minor updat which updates a mod to fix a server startup crash.**
+**Minor update which updates a mod to fix a server startup crash.**
 
 **Changes**
 - Updated [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
