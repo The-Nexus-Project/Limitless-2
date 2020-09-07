@@ -1,3 +1,19 @@
+<h1>v2.1.0b</h1>
+
+**Minor update to attempt to fix Strongholds not generating in some worlds.**
+
+**Changes**
+- Disabled '**Repurposed Structures**' own variant of the **Stronghold**. Now using **Vanilla** again.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.1.0a</h1>
 
 **Minor update which updates a mod to fix a server startup crash.**
