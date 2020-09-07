@@ -1,3 +1,19 @@
+<h1>v2.1.0a</h1>
+
+**Minor updat which updates a mod to fix a server startup crash.**
+
+**Changes**
+- Updated [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.1.0</h1>
 
 **Mystical World & Integrated Crafting & Terminals Update (+ More!)**
