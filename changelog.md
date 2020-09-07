@@ -1,3 +1,44 @@
+<h1>v2.1.0</h1>
+
+**Mystical World & Integrated Crafting & Terminals Update (+ More!)**
+
+**This update replaces the current Gravestone Mod, be sure to empty out any important graves before updating!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting)
+- [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+- [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
+
+
+**Removed**
+- [Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestones)
+
+
+**Changes**
+- Changes within some mod updates.
+
+
+**Fixes**
+- Fixes within some mod updates.
+
+
+**Updated**
+- Updated 35 mods.
+- All mods that had an update available have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.4</h1>
 
 **Astral Sorcery & Applied Energistics 2 Update (+ More!)**
