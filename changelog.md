@@ -2,7 +2,7 @@
 
 **Minor update which updates a mod to fix a server startup crash.**
 
-**Changes**
+**Updates**
 - Updated [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
 
 
