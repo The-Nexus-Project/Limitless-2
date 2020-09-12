@@ -1,3 +1,65 @@
+<h1>v2.2.0</h1>
+
+**Thermal Mod Series Update! (+ More!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+- [LocateBiome](https://www.curseforge.com/minecraft/mc-mods/locatebiome)
+- [Thermal Fountation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation) (+ [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core/files) )
+- [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+- [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+- [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
+- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
+
+
+**Removed**
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+- [Initial Inventory](https://www.curseforge.com/minecraft/mc-mods/initial-inventory) (**Now using MaEssentials Starter Kit instead.**)
+- [JEI Tweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+- [No Default Auto Jump](https://www.curseforge.com/minecraft/mc-mods/no-default-auto-jump) (**Already in DefaultOptions.**)
+
+
+**Changes**
+- Scripts have been moved over from '**CraftTweaker**' to '**KubeJS**'.
+- Main Ore generation has been swapped out for the Thermal Series. (**Thermal doesn't have a config to configure ores so this needed to happen.**)
+- Unified alot of ores, blocks, ingots & nuggets etc. (+ more items.)
+- Added JEI information tab to most Ores showing what Y levels they are mostly commonly found at.
+- Re-enabled '**Better Default Biomes**' Willow Trees. (**Logs now default to BOP Willow Planks.**)
+- Facades from '**AE2**' are now hidden from view in JEI. (**Except one to show as a recipe example.**)
+- New loading screen theme.
+- You no longer spawn with '**Integrated Dynamics Book**' on new world spawns.
+- You no longer spawn with '**Blueprint Package**' on new world spawns.
+- The '**Orb of Temporary Flight**' flight time has been reduced from 5 minutes to 2 minutes.
+- Modified rewards for some quests.
+- Fixed the first & third person viewmodel for the 'Portable Crafting Tables'.
+- Changed position the of Potion Effect icons on the HUD, no longer overlaps with the Minimap.
+- Potion Effects icons on HUD are now smaller.
+- Lowered Max Force Loaded chunks limit from 50 -> 8.
+- Changes within some mod updates.
+
+
+**Fixes**
+- '**AE2**' items not showing up in '**JEI**' or the '**Creative Menu**' has been fixed.
+- And more fixes within some mod updates.
+
+
+**Updated**
+- Updated Forge to version 31.2.37.
+- All mods that had an update available have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.1.0b</h1>
 
 **Minor update to attempt to fix Strongholds not generating in some worlds.**
