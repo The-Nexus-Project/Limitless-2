@@ -35,10 +35,11 @@
 - You no longer spawn with '**Blueprint Package**' on new world spawns.
 - The '**Orb of Temporary Flight**' flight time has been reduced from 5 minutes to 2 minutes.
 - Modified rewards for some quests.
-- Fixed the first & third person viewmodel for the 'Portable Crafting Tables'.
+- Fixed the first & third person viewmodel for the '**Portable Crafting Tables**'.
 - Changed position the of Potion Effect icons on the HUD, no longer overlaps with the Minimap.
 - Potion Effects icons on HUD are now smaller.
 - Lowered Max Force Loaded chunks limit from 50 -> 8.
+- Added some recipes to the Grindstone from '**AE2**' to allow modded ores to be grindable.
 - Changes within some mod updates.
 
 
