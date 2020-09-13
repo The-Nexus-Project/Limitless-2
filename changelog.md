@@ -1,3 +1,19 @@
+<h1>v2.2.3</h1>
+
+**Yet a another small update adding the ability to use any Quartz Dust in AE2 recipes.**
+
+**Changes**
+- Added a script to allow the use of any '**Quartz Dust**' in any AE2 recipe that requires it.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.2.2</h1>
 
 **Just a another small update adding the ability to smelt down Thermal & Mekanism 'Quartz Dust' to AE2 Silicon.**
@@ -7,6 +23,13 @@
 
 **Changes**
 - Added a script to be able to smelt down '**Thermal Series**'  & '**Mekanism**' Quartz Dust to AE2 Silicon.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
 
 ---------------
 
