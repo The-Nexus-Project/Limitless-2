@@ -1,6 +1,6 @@
 <h1>v2.2.3</h1>
 
-**Yet a another small update adding the ability to use any Quartz Dust in AE2 recipes.**
+**Yet another small update adding the ability to use any Quartz Dust in AE2 recipes.**
 
 **Changes**
 - Added a script to allow the use of any '**Quartz Dust**' in any AE2 recipe that requires it.
