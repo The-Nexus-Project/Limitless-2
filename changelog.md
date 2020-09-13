@@ -1,3 +1,21 @@
+<h1>v2.2.1</h1>
+
+**Just a small "hotfix" removing the mod DoubleSlabs, and adding KleeSlabs.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+
+**Removed**
+- [DoubleSlabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
+
+**Notes**
+- '**DoubleSlabs**' was removed due to ongoing server crashing issues. And has been replaced by '**KleeSlabs**'.
+
+---------------
+
 <h1>v2.2.0</h1>
 
 **Thermal Mod Series Update! (+ More!)**
