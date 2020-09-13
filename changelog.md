@@ -1,3 +1,15 @@
+<h1>v2.2.2</h1>
+
+**Just a another small update adding the ability to smelt down Thermal & Mekanism 'Quartz Dust' to AE2 Silicon.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- Added a script to be able to smelt down '**Thermal Series**'  & '**Mekanism**' Quartz Dust to AE2 Silicon.
+
+---------------
+
 <h1>v2.2.1</h1>
 
 **Just a small "hotfix" removing the mod DoubleSlabs, and adding KleeSlabs.**
