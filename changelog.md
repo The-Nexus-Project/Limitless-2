@@ -100,6 +100,7 @@
 - Potion Effects icons on HUD are now smaller.
 - Lowered Max Force Loaded chunks limit from 50 -> 8.
 - Added some recipes to the Grindstone from '**AE2**' to allow modded ores to be grindable.
+- Ores in Overworld from '**SilentGems**' will now only spawn in the '**YAMDA**' Mining Dimension.
 - Changes within some mod updates.
 
 
