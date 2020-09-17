@@ -1,3 +1,61 @@
+<h1>v2.3.0</h1>
+
+**Quality of Life Update & 2 New Quest Chapters (+ More!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
+
+
+**Removed**
+- No mods.
+
+
+**Changes**
+- Lowered '**Dungeon Crawl**' dungeon generation probability slightly, 0.15 -> 0.10.
+- Added what rewards are given to the player in the quest/quest-activation-description. Since item tooltips in the Quest GUI are invisible right now this seems fitting.
+- Disabled '**Displacement**' Enchantment from the mod '**Ensorcellation**' to prevent crashes.
+- Disabled duplicate "right-click to harvest" config options.
+- Added missing & new rewards to some quests.
+- Unified even more nuggets, ingots, blocks & items (+ more).
+- Changed how many backups to keep, 12 -> 4.
+- 57 new '**Quests**' have been added.
+- Disabled the '**Chest Search**' tweak from '**Quark**' to prevent button overlapping in various GUI's.
+- The Fire effect on screen is now less intrusive, (Lower Fire).
+- Rain & Snow particles are now less annoying.
+- The Vanilla Shield on screen is now less intrusive, (lower).
+- Lowered 'Tries Per Chunk' for Speleothems, 60 -> 30. (**Quark.**)
+- Re-enabled the '**Neat**' health bar above players.
+- Moved the '**Neat**' health bar a little higher up.
+- '**Neat**' health bar no longer overlaps with player name.
+- Lowered droprate for the item '**Sinew**'.
+- Changes within some mod updates.
+
+
+**Quests**
+- New Chapter '**Silent's Mechanisms**'.
+- New Chapter '**Applied Energistics 2**'.
+
+
+**Fixes**
+- Fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 31.2.41.
+- All mods that had an update available have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.2.3</h1>
 
 **Yet another small update adding the ability to use any Quartz Dust in AE2 recipes.**
