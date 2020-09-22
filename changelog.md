@@ -1,3 +1,47 @@
+<h1>v2.3.1</h1>
+
+**New Quests + Pam's HC2 - Trees Update (+ More!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Pam's HC2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added 45 new quests.
+- Antlers from '**Better Animals Plus**' can now be crafted into 6x bonemeal.
+- Disabled most Spike Blocks due to crashes.
+- Changes within some mod updates.
+
+
+**Fixes**
+- Fixes within mod updates.
+
+
+**Quests**
+- New Chapter '**Thermal Series**'.
+- Creative Items can no longer be acquired through Loot Bag loot. (**Report if you still receive any.**)
+- Items from the mod '**Macaw's Roofs**' can no longer be acquired through Loot Bag loot.
+
+
+**Updated**
+- All mods that had an update available have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.3.0</h1>
 
 **Quality of Life Update & 2 New Quest Chapters (+ More!)**
