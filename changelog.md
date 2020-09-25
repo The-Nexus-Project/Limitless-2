@@ -1,3 +1,44 @@
+<h1>v2.3.2</h1>
+
+**Ice and Fire Update (+ More!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+- [Wawla](https://www.curseforge.com/minecraft/mc-mods/wawla)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Re-enabled Wooden, Iron & Gold Spikes. (**Diamond Spike remains disabled due to crashes.**)
+- Re-enabled Spikes from '**Cyclic**' & '**Craft and Hunt**'.
+- Disabled the '**Player Damage Trap**' from '**Dark Utilities**' to prevent crashes.
+- Disabled the duplicate Harvest Level in '**Waila**'.
+- Added '**Thermal Series**' Pulverizer Dust-Recipes to some '**Silent's Mechanisms**' ores. (**Bauxite, Bismuth, Platinum & Zinc.**)
+- Changes within some mod updates.
+
+
+**Fixes**
+- Fixes within mod updates.
+
+
+**Updated**
+- All mods that had an update available have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.3.1</h1>
 
 **New Quests + Pam's HC2 - Trees Update (+ More!)**
