@@ -1,3 +1,45 @@
+<h1>v2.3.3</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Quicksilver Ore & Ingot can now be turned into dust in some machines.
+- Re-enabled the '**Diamond Spike**' & '**Player Damage Trap**'.
+- Changes within some mod updates.
+
+
+**Fixes**
+- Game / Server crashes when an entity is killed by a player damage trap has been fixed.
+- Fixes within mod updates.
+
+
+**Quests**
+- Added missing quest descriptions for some chapters.
+- Added missing/new rewards for some quests.
+
+
+**Updated**
+- Updated Forge to version 31.2.43
+- All mods that had an update available have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.3.2</h1>
 
 **Ice and Fire Update (+ More!)**
