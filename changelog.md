@@ -1,3 +1,45 @@
+<h1>v2.4.0</h1>
+
+**Productive Bees, Ars Nouveau Update (+ More!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) (+ [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) )
+- [Pandoras Creatures](https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures)
+- [Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees)
+
+
+**Removed**
+- [Mixin Bootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap)
+
+
+**Changes**
+- New temporary Halloween themed Main Menu background.
+- Players now lose 50% of their total EXP Levels upon death.
+- Changes within some mod updates.
+
+
+**Fixes**
+- Fixed recipe conflicts for **Scoria**, **Slow Glass** & **Vile Dust**.
+- Nether Portal sounds are now quiter.
+- Fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 31.2.45
+- All mods that had an update available have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.3.3</h1>
 
 **Always remember to backup your world(s) before updating!**
