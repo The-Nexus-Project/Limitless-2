@@ -1,4 +1,4 @@
-<h1>v2.4.1</h1>
+<h1>v2.4.1 & 2.4.1a</h1>
 
 **Minor update fixing some stuff & updating mods.**
 
@@ -25,6 +25,7 @@
 
 **Quests**
 - Fixed some minor issues with quest chapters.
+- Some GUI / Tooltip issues were fixed. **(v2.4.1a)**
 
 
 **Updated**
