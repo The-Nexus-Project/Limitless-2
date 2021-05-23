@@ -1,8 +1,0 @@
-
-#General Settings
-[GENERAL]
-	#Enable Corail Woodcutter mod support.
-	corailSupport = true
-	#Enable Biomes O' Plenty mod support.
-	BOPSupport = true
-
