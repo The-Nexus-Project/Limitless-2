@@ -1,1 +1,0 @@
-craftingTable.removeRecipe(<item:cyclic:tile_transporter_empty>);
